@@ -7,7 +7,7 @@ This assignment aims to create a Tableau dashboard that provides insights into v
 [People Analytics Dataset](https://docs.google.com/spreadsheets/d/1x9Kx6nKPpOhrvQ_BaGVGHGGYXLuZKdlNHDOX0IkQjAg/edit?usp=sharing)
 
 ## Objectives
-1. **Create a Tableau dashboard** that visualizes the provided data to answer 15 questions about people analytics.
+1. **Create a Tableau dashboard** that visualizes the provided data to answer 20 questions about people analytics.
 2. **Design the dashboard** to be visually appealing and easy to navigate.
 3. **Use various Tableau features** such as filters, calculations, and visualizations to answer the questions.
 
