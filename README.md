@@ -4,7 +4,7 @@
 This assignment aims to create a Tableau dashboard that provides insights into various aspects of employee data, including demographics, job satisfaction, and performance. The provided sample data includes employee information such as age, hire year, attrition, business travel, department, education, gender, environment satisfaction, job level, job role, job satisfaction, over-time, performance rating, relationship satisfaction, work-life balance, years at company, city, university, monthly income, vaccinations, children, marital status, and survey year.
 
 ## Dataset
-[People Analytics Dataset] (https://docs.google.com/spreadsheets/d/1x9Kx6nKPpOhrvQ_BaGVGHGGYXLuZKdlNHDOX0IkQjAg/edit?usp=sharing)
+[People Analytics Dataset](https://docs.google.com/spreadsheets/d/1x9Kx6nKPpOhrvQ_BaGVGHGGYXLuZKdlNHDOX0IkQjAg/edit?usp=sharing)
 
 ## Objectives
 1. **Create a Tableau dashboard** that visualizes the provided data to answer 15 questions about people analytics.
