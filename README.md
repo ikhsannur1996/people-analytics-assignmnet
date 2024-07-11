@@ -12,21 +12,26 @@ This assignment aims to create a Tableau dashboard that provides insights into v
 3. **Use various Tableau features** such as filters, calculations, and visualizations to answer the questions.
 
 ## Questions
-1. What is the average age of employees in the Sales department?
-2. Which gender has a higher job satisfaction?
-3. What is the most common education field among employees?
-4. How many employees have been with the company for more than 5 years?
-5. What is the relationship between job satisfaction and over-time work?
-6. Which city has the highest average monthly income?
-7. Is there a correlation between education level and job level?
-8. What is the average performance rating of employees who travel frequently?
-9. How does marital status affect relationship satisfaction?
-10. What is the average years at company for employees with a diploma in Life Sciences?
-11. What is the distribution of employees by job level?
-12. How does education field affect job satisfaction?
-13. What is the average environment satisfaction for employees in the Sales department?
-14. Is there a correlation between years at company and job satisfaction?
-15. What is the average performance rating for employees with a high level of business travel?
+1. What is the average age of employees who have left the company (Attrition = Yes)?
+2. Is there a correlation between business travel frequency and employee attrition?
+3. How does the department influence employee attrition rates?
+4. What is the average job satisfaction of employees who have left the company?
+5. Does overtime work affect the likelihood of employee attrition?
+6.  What is the average age of employees in the Sales department?
+7. Which gender has a higher job satisfaction?
+8. What is the most common education field among employees?
+9. How many employees have been with the company for more than 5 years?
+10. What is the relationship between job satisfaction and over-time work?
+11. Which city has the highest average monthly income?
+12. Is there a correlation between education level and job level?
+13. What is the average performance rating of employees who travel frequently?
+14. How does marital status affect relationship satisfaction?
+15. What is the average years at company for employees with a diploma in Life Sciences?
+16. What is the distribution of employees by job level?
+17. How does education field affect job satisfaction?
+18. What is the average environment satisfaction for employees in the Sales department?
+19. Is there a correlation between years at company and job satisfaction?
+120. What is the average performance rating for employees with a high level of business travel?
 
 ## Submission Requirements
 1. **Tableau Public dashboard Link** with the visualizations and answers to the questions.
